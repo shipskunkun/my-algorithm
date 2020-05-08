@@ -1,3 +1,7 @@
+## 视频资料来源：
+
+[BAT版LeetCode算法讲解经典版](https://www.bilibili.com/video/BV1at41117sw)
+
 ## 一. 链表， pass
 
 ## 二. 栈，队列，堆
