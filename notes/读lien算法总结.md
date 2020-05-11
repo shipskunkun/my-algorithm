@@ -40,7 +40,10 @@
 
 	JavaScript版 数据结构与算法，这个适合新人学习，入门基本。
 	极客时间- 数据结构与算法之美 在有基础上看这个会更好，里面github有js实现方式，自己动手敲一遍
-	极客时间- 算法面试通关 40 讲 这门课真的是好，里面都是高频经典的题目。leetcode 字节跳动专栏leetcode 剑指 offer
+	极客时间- 算法面试通关 40 讲 这门课真的是好，里面都是高频经典的题目。
+	leetcode 字节跳动专栏
+	leetcode 剑指 offer
+	
 	blog:
 	
 	awesome-coding-js 用 JavaScript 实现的算法和数据结构
