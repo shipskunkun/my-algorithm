@@ -1,8 +1,11 @@
 # my-algorithm
 
 
+
+
 #### 参考资料：
 
+[leetcode](https://leetcode-cn.com/problemset/all/)
 
 [心谭算法系列汇总](https://xxoo521.com/algorithm/)
 
@@ -10,8 +13,9 @@
 
 [字节跳动算法主页](https://leetcode-cn.com/explore/interview/card/bytedance/)
 
+[写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://mp.weixin.qq.com/s/WzsL4nju1LSMUnlUnzEdiQ) 
 
-[写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://mp.weixin.qq.com/s/WzsL4nju1LSMUnlUnzEdiQ)
+[100+道必做题目](https://github.com/sl1673495/leetcode-javascript/issues)
 
 
 
@@ -26,18 +30,22 @@
 
 
 5.7日， 50 done
-	
 	满打满算，加上五一5天假，才看了10天，效率为50%，算5天吧
 	人生太惨了！
-	
+
 5.8日，周五
-	
+
 	开始看40讲视频
 
 5.11日，周一
-	
+
 	60道，done
 5.14日，周四
-	
+
 	70道，done
 
+9.8日，周二
+
+	restart！
+	目标：9.8-10.24，1个半月，看看能刷几道题吧
+	
