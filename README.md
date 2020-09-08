@@ -15,6 +15,7 @@
 
 [labuladong手撕算法](https://github.com/labuladong/fucking-algorithm)
 
+[100+道必做题目](https://github.com/sl1673495/leetcode-javascript/issues)
 
 #### 看算法的日子，
 
@@ -42,3 +43,7 @@
 	
 	70道，done
 
+9.8日，周二
+	
+	restart！目标：70-170，一个月时间
+	170 - 222， 10.24日 结束
