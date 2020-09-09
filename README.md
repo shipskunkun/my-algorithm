@@ -13,7 +13,7 @@
 
 [100+道必做题目](https://github.com/sl1673495/leetcode-javascript/issues)
 
-### 2020 别人的经验：
+### 别人写的：
 
 [心谭算法系列汇总](https://xxoo521.com/algorithm/)
 
@@ -22,10 +22,6 @@
 [字节跳动算法主页](https://leetcode-cn.com/explore/interview/card/bytedance/)
 
 [写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://mp.weixin.qq.com/s/WzsL4nju1LSMUnlUnzEdiQ) 
-
-
-
-
 
 ### 合集
 
