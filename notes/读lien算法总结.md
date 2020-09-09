@@ -38,15 +38,21 @@
 
 参考资料：
 
-	JavaScript版 数据结构与算法，这个适合新人学习，入门基本。
-	极客时间- 数据结构与算法之美 在有基础上看这个会更好，里面github有js实现方式，自己动手敲一遍
-	极客时间- 算法面试通关 40 讲 这门课真的是好，里面都是高频经典的题目。
-	leetcode 字节跳动专栏
-	leetcode 剑指 offer
+[JavaScript版 数据结构与算法，这个适合新人学习，入门基本。](https://coding.imooc.com/class/315.html)
+
+[极客时间- 数据结构与算法之美 在有基础上看这个会更好，里面github有js实现方式，自己动手敲一遍](https://time.geekbang.org/column/intro/126)
+
+[极客时间- 算法面试通关 40 讲 这门课真的是好，里面都是高频经典的题目。](https://time.geekbang.org/course/intro/130)
+
+[leetcode 字节跳动专栏](https://leetcode-cn.com/explore/interview/card/bytedance/)		
+
+[leetcode 剑指 offer](https://leetcode-cn.com/problemset/lcof/)
 	
-	blog:
+blog:
 	
-	awesome-coding-js 用 JavaScript 实现的算法和数据结构
-	labuladong 这个动态规范讲得真的好
-	YaxeZhang/Just-Code 针对面试训练算法题， 目前包括字节跳动面试题、 LeetCode 和剑指 offer
+awesome-coding-js 用 JavaScript 实现的算法和数据结构
+
+[labuladong 这个动态规范讲得真的好](https://labuladong.gitbook.io/algo/)
+
+[YaxeZhang/Just-Code 针对面试训练算法题， 目前包括字节跳动面试题、 LeetCode 和剑指 offer](https://github.com/YaxeZhang/Just-Code)
 
